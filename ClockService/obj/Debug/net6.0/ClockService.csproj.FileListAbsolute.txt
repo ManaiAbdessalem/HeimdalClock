@@ -1,0 +1,12 @@
+C:\Users\Becem\Desktop\Heimdal\HeimdalClock\ClockService\bin\Debug\net6.0\ClockService.deps.json
+C:\Users\Becem\Desktop\Heimdal\HeimdalClock\ClockService\bin\Debug\net6.0\ClockService.dll
+C:\Users\Becem\Desktop\Heimdal\HeimdalClock\ClockService\bin\Debug\net6.0\ClockService.pdb
+C:\Users\Becem\Desktop\Heimdal\HeimdalClock\ClockService\obj\Debug\net6.0\ClockService.csproj.AssemblyReference.cache
+C:\Users\Becem\Desktop\Heimdal\HeimdalClock\ClockService\obj\Debug\net6.0\ClockService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Becem\Desktop\Heimdal\HeimdalClock\ClockService\obj\Debug\net6.0\ClockService.AssemblyInfoInputs.cache
+C:\Users\Becem\Desktop\Heimdal\HeimdalClock\ClockService\obj\Debug\net6.0\ClockService.AssemblyInfo.cs
+C:\Users\Becem\Desktop\Heimdal\HeimdalClock\ClockService\obj\Debug\net6.0\ClockService.csproj.CoreCompileInputs.cache
+C:\Users\Becem\Desktop\Heimdal\HeimdalClock\ClockService\obj\Debug\net6.0\ClockService.dll
+C:\Users\Becem\Desktop\Heimdal\HeimdalClock\ClockService\obj\Debug\net6.0\refint\ClockService.dll
+C:\Users\Becem\Desktop\Heimdal\HeimdalClock\ClockService\obj\Debug\net6.0\ClockService.pdb
+C:\Users\Becem\Desktop\Heimdal\HeimdalClock\ClockService\obj\Debug\net6.0\ref\ClockService.dll
